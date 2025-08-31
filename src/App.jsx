@@ -28,7 +28,7 @@ function App() {
     <div className="app">
       <div className="header-section">
         <div className="search-container">
-          <img src="./assets/logo.png" alt="CloudCast" className="logo"/>
+          <img src="/logo2.png" alt="CloudCast" className="logo"/>
           
           <div className="input-wrapper">
             <input

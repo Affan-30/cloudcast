@@ -9,10 +9,10 @@ With a visually stunning dynamic background and intuitive design, it displays ke
 
 ✅ **Real-Time Weather Data** – Get instant weather updates for any location.  
 ✅ **Search by City** – Enter any city name to view its current weather conditions.
-✅ **Detailed Metrics** – Shows temperature, humidity, wind speed, sunrise & sunset.  
-✅ **Responsive Design** – Beautifully optimized for desktop, tablet, and mobile devices.  
-✅ **Clean & Modern UI** – Minimalist typography and smooth animations for a premium experience.  
 
+✅ **Responsive Design** – Beautifully optimized for desktop, tablet, and mobile devices.  
+✅ **Clean & Modern UI** – Minimalist typography and smooth animations for a premium experience.
+✅ **Detailed Metrics** – Shows temperature, humidity, wind speed, sunrise & sunset.  
 ---
 
 ## 🧠 Tech Stack

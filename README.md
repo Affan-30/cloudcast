@@ -8,11 +8,11 @@ With a visually stunning dynamic background and intuitive design, it displays ke
 ## 🌟 Features
 
 ✅ **Real-Time Weather Data** – Get instant weather updates for any location.  
-✅ **Search by City** – Enter any city name to view its current weather conditions.
-
+✅ **Search by City** – Enter any city name to view its current weather conditions.  
 ✅ **Responsive Design** – Beautifully optimized for desktop, tablet, and mobile devices.  
-✅ **Clean & Modern UI** – Minimalist typography and smooth animations for a premium experience.
+✅ **Clean & Modern UI** – Minimalist typography and smooth animations for a premium experience.  
 ✅ **Detailed Metrics** – Shows temperature, humidity, wind speed, sunrise & sunset.  
+
 ---
 
 ## 🧠 Tech Stack
@@ -38,3 +38,6 @@ With a visually stunning dynamic background and intuitive design, it displays ke
 
 👉 [**Try CloudCast Live**](https://affan-30.github.io/cloudcast/)  
 
+---
+
+> _"Forecast the future with style — stay ahead of the clouds with CloudCast."_ ☁️

@@ -1,12 +1,40 @@
-# React + Vite
+# 🌦️ CloudCast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CloudCast** is a sleek and elegant **React.js weather application** that provides real-time weather updates for any city in the world.  
+With a visually stunning dynamic background and intuitive design, it displays key weather metrics like **temperature**, **humidity**, **wind speed**, and **sunrise/sunset times**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+✅ **Real-Time Weather Data** – Get instant weather updates for any location.  
+✅ **Search by City** – Enter any city name to view its current weather conditions.
+✅ **Detailed Metrics** – Shows temperature, humidity, wind speed, sunrise & sunset.  
+✅ **Responsive Design** – Beautifully optimized for desktop, tablet, and mobile devices.  
+✅ **Clean & Modern UI** – Minimalist typography and smooth animations for a premium experience.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Tech Stack
+
+- **React.js** (Frontend Framework)  
+- **JavaScript (ES6+)**  
+- **HTML5 & CSS3**  
+- **OpenWeatherMap API** (for live weather data)  
+- **GitHub Pages** (for deployment)  
+
+---
+
+## 🌤️ UI Highlights
+
+- Centered temperature card with real-time data.  
+- Soft transparent search bar for entering city names.  
+- Animated weather icons and typography with modern styling.  
+- Footer with social links (GitHub, LinkedIn, Instagram).  
+
+---
+
+## 🚀 Live Demo
+
+👉 [**Try CloudCast Live**](https://affan-30.github.io/cloudcast/)  
+
